@@ -1,1 +1,5 @@
-
+vless://5cd7f1dc-81ea-4664-898c-64bb1c604f9b@xray.lyx98.cf:443?encryption=none&security=xtls&type=tcp&host=xray.lyx98.cf&headerType=none&sni=xray.lyx98.cf&flow=xtls-rprx-direct#xray.lyx98.cf_VLESS_XTLS/TLS-direct_TCP
+vless://5cd7f1dc-81ea-4664-898c-64bb1c604f9b@xray.lyx98.cf:443?encryption=none&security=xtls&type=tcp&host=xray.lyx98.cf&headerType=none&sni=xray.lyx98.cf&flow=xtls-rprx-splice#xray.lyx98.cf_VLESS_XTLS/TLS-direct_TCP
+vmess://eyJwb3J0IjoiNDQzIiwicHMiOiJ4cmF5Lmx5eDk4LmNmX3ZtZXNzX3dzIiwidGxzIjoidGxzIiwiaWQiOiI1Y2Q3ZjFkYy04MWVhLTQ2NjQtODk4Yy02NGJiMWM2MDRmOWIiLCJhaWQiOiIwIiwidiI6IjIiLCJob3N0IjoieHJheS5seXg5OC5jZiIsInR5cGUiOiJub25lIiwicGF0aCI6Ilwvdm5mbHZ3cz9lZD0yMDQ4IiwibmV0Ijoid3MiLCJhZGQiOiJ4cmF5Lmx5eDk4LmNmIiwiYWxsb3dJbnNlY3VyZSI6MCwibWV0aG9kIjoibm9uZSIsInBlZXIiOiJ4cmF5Lmx5eDk4LmNmIiwic25pIjoieHJheS5seXg5OC5jZiJ9
+trojan://5cd7f1dc-81ea-4664-898c-64bb1c604f9b@xray.lyx98.cf:443?peer=xray.lyx98.cf&sni=xray.lyx98.cf&alpn=http1.1#xray.lyx98.cf_Trojan
+trojan://5cd7f1dc-81ea-4664-898c-64bb1c604f9b@xray.lyx98.cf:443?encryption=none&peer=xray.lyx98.cf&security=tls&type=grpc&sni=xray.lyx98.cf&alpn=h2&path=vnfltrojangrpc&serviceName=vnfltrojangrpc#xray.lyx98.cf_Trojan_gRPC
